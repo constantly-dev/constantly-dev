@@ -3,7 +3,8 @@
 
 
 ### Activity
-- SOPT Makers 37기 Crew team FE (2025.08 ~ current)
+- SOPT Makers 38기 Admin/Crew FE (2026.02 ~ current)
+- SOPT Makers 37기 Crew team FE (2025.08 ~ 2026.02)
 - 대학생 연합 IT 벤처 창업 동아리 SOPT 35기, 36기 FE (2024.09 ~ 2025.07)
 - 멋쟁이사자처럼 11기, 12기(운영진) FE 수료 (2023.03 ~ 2024.12)
 
