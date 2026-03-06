@@ -1,5 +1,5 @@
 ## 이진혁 - Lee Jinhyeok
-> 세상을 바꿀 Changemaker가 목표입니다.
+> Changemaker
 
 
 ### Activity
