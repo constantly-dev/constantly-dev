@@ -10,6 +10,6 @@
 
 ### Contributions
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form/pulls?q=author%3Aconstantly-dev+is%3Aclosed)
-- [vanilla-extract-css](https://github.com/vanilla-extract-css/vanilla-extract/pulls?q=author%3Aconstantly-dev+is%3Aclosed+)
 - [ky](https://github.com/sindresorhus/ky/pull/833)
+- [vanilla-extract-css](https://github.com/vanilla-extract-css/vanilla-extract/pulls?q=author%3Aconstantly-dev+is%3Aclosed+)
 - [tanstack.com](https://github.com/TanStack/tanstack.com/pull/741)
