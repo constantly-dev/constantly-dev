@@ -3,6 +3,7 @@
 
 
 ### Activity
+- SOPT Makers 39기 디자인플랫폼 팀 FE (2026.08 ~ current)
 - SOPT Makers 38기 모임 팀 FE/공홈(어드민)팀 FE (2026.02 ~ 2026.08)
 - SOPT Makers 37기 모임 팀 FE (2025.08 ~ 2026.02)
 - 대학생 연합 IT 벤처 창업 동아리 SOPT 35기, 36기 FE (2024.09 ~ 2025.07)
